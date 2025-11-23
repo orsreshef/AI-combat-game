@@ -2,9 +2,6 @@
 
 An advanced AI-driven combat simulation featuring two teams of intelligent units battling on a procedurally generated battlefield. Built with C++ and OpenGL.
 
-![Gameplay Screenshot 1](images/gameplay1.png)
-![Gameplay Screenshot 2](images/gameplay2.png)
-![Gameplay Screenshot 3](images/gameplay3.png)
 ![Gameplay Screenshot 4](images/gameplay4.png)
 ![Gameplay Screenshot 5](images/gameplay5.png)
 
@@ -85,6 +82,11 @@ Each team consists of 4 specialized units with unique AI behaviors:
 ### Strategic Depots
 - **Medical Depots** - Recharge medic healing charges (1 charge per heal to full HP)
 - **Ammo Depots** - Recharge supply ammunition (1 charge: +10 ammo, +3 grenades)
+
+![Gameplay Screenshot 1](images/gameplay1.png)
+![Gameplay Screenshot 2](images/gameplay2.png)
+![Gameplay Screenshot 3](images/gameplay3.png)
+
 
 ## 🚀 Getting Started
 
