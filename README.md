@@ -2,8 +2,8 @@
 
 An advanced AI-driven combat simulation featuring two teams of intelligent units battling on a procedurally generated battlefield. Built with C++ and OpenGL.
 
-![Gameplay Screenshot 4](images/gameplay4.png)
 ![Gameplay Screenshot 5](images/gameplay5.png)
+![Gameplay Screenshot 4](images/gameplay4.png)
 
 ## 🎮 Overview
 
